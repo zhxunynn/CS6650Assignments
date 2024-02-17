@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Homework1Server" />
+        <module name="Homework1Server (1)" />
+        <module name="Homework1Client2" />
+        <module name="Homework1Client1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Homework" target="21" />
+      <module name="Homework1Server (1) (edu.northeastern.cs6650.xunyan.Assignment1.Client1)" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

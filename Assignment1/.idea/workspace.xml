@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HW1Server" />
+      <artifact name="HW1Server" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35de0e5a-b1d8-4c1d-a1bc-af9dbae93020" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client1/src/main/java/ArgCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client1/src/main/java/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client1/src/main/java/ProcessThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client1/src/main/java/ThreadServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/src/main/java/ArgCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/src/main/java/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/src/main/java/ProcessThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/src/main/java/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Client2/src/main/java/ThreadServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Homework1ServerBonus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Homework1ServerBonus/src/main/java/SkierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Homework1ServerBonus/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Homework1ServerBonus/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Server/src/main/java/Servlets/SkierServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Server/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/1406fd5ed0bb1fb7b2f8497b0c4ef1a35b0489aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-20-42-58-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-20-44-37-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-20-45-27-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-22-00-48-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-22-50-08-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-22-54-34-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-23-08-54-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/assets_readme/2024-02-16-23-14-38-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cRNYwK662mpnUj8SpQxynfccZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Client1.executor": "Run",
+    "Application.Client1AWS.executor": "Run",
+    "Application.Client1AWSLatency.executor": "Run",
+    "Application.Client1Local.executor": "Run",
+    "Application.Client2AWS.executor": "Run",
+    "Application.Client2Local.executor": "Run",
+    "Maven.HW1Server.executor": "Run",
+    "Maven.Homework [compile].executor": "Run",
+    "Maven.Homework [deploy].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Tomcat Server.HW1Server.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/xunyan/Documents/Northeastern/CS6650/Homework/src/Assignment1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/xunyan/Documents/Northeastern/CS6650/Homework/src/main/java/edu/northeastern/cs6650/xunyan/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.34712642",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assignment1" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Client1/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Client2" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Server/src/main" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Client1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assignment1/Client1/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Server/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Server" />
+      <recent name="$PROJECT_DIR$/src/Assignment1/Server/Servlets" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client2AWS">
+    <configuration name="Client1AWS" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="Homework1Client1" />
+      <option name="PROGRAM_PARAMETERS" value="-nt 32 -nr 200000 --host ec2-35-162-209-118.us-west-2.compute.amazonaws.com " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client1AWSLatency" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="Homework1Client1" />
+      <option name="PROGRAM_PARAMETERS" value="-nt 32 -nr 1000 --latency --host ec2-35-162-209-118.us-west-2.compute.amazonaws.com/HW1Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client1Local" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="Homework1Client1" />
+      <option name="PROGRAM_PARAMETERS" value="-nt 32 -nr 200000 --host localhost:8080/HW1Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2AWS" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="Homework1Client2" />
+      <option name="PROGRAM_PARAMETERS" value="-nt 32 -nr 200000 --host ec2-35-162-209-118.us-west-2.compute.amazonaws.com " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2Local" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientMain" />
+      <module name="Homework1Client2" />
+      <option name="PROGRAM_PARAMETERS" value="-nt 32 -nr 200000 --host localhost:8080/HW1Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Homework1Server (1) (edu.northeastern.cs6650.xunyan.Assignment1.Client1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Homework1Server (1) (edu.northeastern.cs6650.xunyan.Assignment1.Client1)" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW1Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.18" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$USER_HOME$/.sdkman/candidates/java/17.0.9-amzn">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/HW1Server" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="HW1Server">
+          <settings>
+            <option name="CONTEXT_PATH" value="/HW1Server" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0b5cff83-7c7d-4e58-ab67-c0f667037b18" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59589" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HW1Server" />
+          <artifact name="HW1Server" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client1Local" />
+      <item itemvalue="Application.Client2Local" />
+      <item itemvalue="Application.Client1AWS" />
+      <item itemvalue="Application.Client2AWS" />
+      <item itemvalue="Application.Client1AWSLatency" />
+      <item itemvalue="Tomcat Server.HW1Server" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35de0e5a-b1d8-4c1d-a1bc-af9dbae93020" name="Changes" comment="" />
+      <created>1708070482343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708070482343</updated>
+      <workItem from="1708070483817" duration="71000" />
+      <workItem from="1708070559258" duration="3737000" />
+      <workItem from="1708074487093" duration="6924000" />
+      <workItem from="1708081432776" duration="24639000" />
+      <workItem from="1708148988122" duration="3689000" />
+      <workItem from="1708153043038" duration="2821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
